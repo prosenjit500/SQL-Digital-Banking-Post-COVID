@@ -86,6 +86,6 @@ To uncover key behavioral shifts and strategic insights in banking by analyzing:
 If you found this project insightful, feel free to explore more or connect with me!
 
 **Name:** Prosenjit Majumder  
-** Email:** prosenjitmajumder500@email.com  
-** LinkedIn:** [linkedin.com/in/prosenjitmajumder](https://linkedin.com/in/prosenjitmajumder)  
+**Email:** prosenjitmajumder500@email.com  
+**LinkedIn:** [linkedin.com/in/prosenjitmajumder](https://linkedin.com/in/prosenjitmajumder)  
 
