@@ -57,4 +57,9 @@ Welcome to my data-driven case study exploring how digital banking evolved after
 
 ## 📫 Connect With Me
 
-Feel free to check out other projects or connect with me on [LinkedIn](https://www.linkedin.com/in/prosenjitmajumder) if you’d like to collaborate or learn more!
+If you found this project insightful, feel free to explore more or connect with me!
+
+**Name:** Prosenjit Majumder  
+**Email:** [prosenjitmajumder500@email.com](mailto:prosenjitmajumder500@email.com)                                                                                                                                   
+**LinkedIn:** [linkedin.com/in/prosenjitmajumder](https://linkedin.com/in/prosenjitmajumder)
+
